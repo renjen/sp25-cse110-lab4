@@ -1,3 +1,4 @@
+### DevTools Network Tab Answers
 1. Name of the new JSON file: [citylots.json]
 2. File that initiated the download: [expose.js]
 3. File size of downloaded file: [759 KB]
